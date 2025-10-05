@@ -1,6 +1,6 @@
-#📰 Fake News Detection using BERT
+# 📰 Fake News Detection using BERT
 
-##📘 Project Overview
+# 📘 Project Overview
 
 This project detects Fake or Real news using a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model.
 The system can take any news headline or full article as input and classify it as Fake or Real.
