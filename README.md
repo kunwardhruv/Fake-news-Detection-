@@ -90,13 +90,14 @@ Google Colab recommended for GPU training
 
 ---
 
-#⚡ Future Improvements
+# ⚡Future Improvements
 
 Deploy as Streamlit or Flask Web App for live news classification
 
 Add multi-lingual news support
 
 Integrate with real-time news APIs
+
 ---
 
 # 📊 Example Predictions
