@@ -44,7 +44,7 @@ FakeNewsDetection/
 
 ---
 
-#🚀 How to Use
+# 🚀 How to Use
 
 ### 🧠 1. Clone the repo:
 ```bash
@@ -62,27 +62,26 @@ python scripts/predict.py
 ```
 python scripts/train.py
 ```
-## Make predictions:
+### 4.) Make predictions:
 ```
 Single news prediction: Edit predict.py or call predict_news("Your news text")
 ```
 
-Batch prediction: Place CSV (new_news.csv) in folder and run:
+### 5.) Batch prediction: Place CSV (new_news.csv) in folder and run:
 ```
 python scripts/predict.py
 ```
-Predictions will be saved in news_predictions.csv
+### 6.) Predictions will be saved in news_predictions.csv
 ---
 
-#📂 Dataset
+# 📂 Dataset
 
 True.csv → Real news headlines/articles
 
 Fake.csv → Fake news headlines/articles
 ---
 
-#🔧 Requirements
-
+# 🔧 Requirements
 
 Python >= 3.8
 
@@ -102,6 +101,8 @@ Integrate with real-time news APIs
 ---
 
 # 📊 Example Predictions
+```
 News Headline	Prediction
 Aliens landed in New York today!	Fake
 Stock market hits all-time high today.	Real
+```
