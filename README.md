@@ -50,7 +50,7 @@ git clone https://github.com/kunwardhruv/Fake-news-Detection-.git
 cd FakeNewsDetection/fake_news
 ```
 
-###🔍 2. Install dependencies:
+### 🔍 2. Install dependencies:
 ```
 python scripts/predict.py
 
@@ -68,11 +68,10 @@ Single news prediction: Edit predict.py or call predict_news("Your news text")
 ### 5.) Batch prediction: 
 ```
 Place CSV (new_news.csv) in folder and run:
-```
 python scripts/predict.py
 ```
-### 6.) Predictions will be saved in news_predictions.csv
----
+
+###  6.) Predictions will be saved in news_predictions.csv 
 
 # 📂 Dataset
 
