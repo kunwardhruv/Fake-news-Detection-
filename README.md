@@ -6,7 +6,6 @@ This project detects Fake or Real news using a fine-tuned BERT (Bidirectional En
 The system can take any news headline or full article as input and classify it as Fake or Real.
 It is designed for both batch predictions via CSV files and interactive single news predictions.
 ---
-
 # ⚙️ Features
 
 Fine-tuned BERT-base-uncased model for accurate text classification
@@ -20,7 +19,6 @@ Modular project structure for easy code management: training, prediction, prepro
 Ready to use in Google Colab or VS Code
 
 Can be extended to a Streamlit/Flask app for live news prediction
-
 ---
 
 ## 🧩 Folder Structure
@@ -67,7 +65,9 @@ python scripts/train.py
 Single news prediction: Edit predict.py or call predict_news("Your news text")
 ```
 
-### 5.) Batch prediction: Place CSV (new_news.csv) in folder and run:
+### 5.) Batch prediction: 
+```
+Place CSV (new_news.csv) in folder and run:
 ```
 python scripts/predict.py
 ```
