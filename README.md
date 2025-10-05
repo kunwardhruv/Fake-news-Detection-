@@ -101,8 +101,8 @@ Integrate with real-time news APIs
 ---
 
 # 📊 Example Predictions
-```
+
 News Headline	Prediction
 Aliens landed in New York today!	Fake
 Stock market hits all-time high today.	Real
-```
+
