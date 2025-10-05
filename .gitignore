@@ -1,0 +1,6 @@
+# Ignore large files
+models/
+outputs/
+*.zip
+*.safetensors
+*.csv
