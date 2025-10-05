@@ -7,7 +7,7 @@ The system can take any news headline or full article as input and classify it a
 It is designed for both batch predictions via CSV files and interactive single news predictions.
 ---
 
-#⚙️ Features
+# ⚙️ Features
 
 Fine-tuned BERT-base-uncased model for accurate text classification
 
